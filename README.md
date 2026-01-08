@@ -43,16 +43,6 @@ Aquí están las herramientas con las que trabajo habitualmente:
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jnavarro629&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jnavarro629&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
-</div>
-
----
-
 ### 📫 Conecta conmigo
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/navarro629)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/jnavarro629)
